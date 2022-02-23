@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+智在个人成长频道【改变只为更自在 帮你成为更好的自己！】
 
-You can use the [editor on GitHub](https://github.com/472875440/zhizai/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 基础篇：过得不如意，可能是因为你不知道这些！
+## 身体能力：身体变好，外部的环境会神奇地变好！[^简单招式]
+[^简单招式]：教你一招简单动作，长期坚持身体棒，亲测有效！
+## 记忆能力：记不住，忆不起，是你改变路上的最大阻碍！
+## 知行合一：知道很多，仍然过不好这一生，是因为没有知行合一！
+# 第一篇：改变自己：射不中目标，不要怪靶太小，只能怪自己能力不行！
+思维能力：人与人的差别比人与猪的区别都大，原因在于人与人巨大的思维能力差距；
+结构化思维：如果只能学一种思维方法，那么一定要选结构化思维！
+思维链：多想一步，可以上你超越无数人！
+换位思维：拒绝自嗨，懂得换位思考，拥有不同的视角，看问题更全面
+可视化思维：给大脑开外挂，思考更清晰！
+逆向思维：反过来想，由果推因，达成目标不是难事！
+大势思维：跟随大势，即使是猪也能跟着飞起来！
+复制思维：复制卓越，你也可以成为卓越！
+迭代思维：小步快跑，不断更新，最后的结果一定吓你一跳！
+闭环思维：先把事做完整了，才能把事做完美！
+理财能力：穷山恶水出叼民，贫贱夫妻百事哀，不懂理财，成就不了更好的自己
+重磅！智在的投资方法大公开：多年后财务自由，别忘了回来补交学费！
+想实现财务自由，先要搞清楚一对概念：资产与负债
+不断积累资产，不停降低负债，你也可以财务自由
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# 第二篇：改变他人：影响越多的人，你越容易得到你想要的！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ ------- 语言能力：语言具有魔力，掌握语言的能力，让你可以影响更多的人；
 
-```markdown
-Syntax highlighted code block
+-------------- 关键对话能力：处理好每次关键时刻的对话，人生已经成功了一大半！
 
-# Header 1
-## Header 2
-### Header 3
+-------------- 非暴力沟通能力：能让你轻松处理与身边人的关系，你会发现别人更容易听从自己的意见了
 
-- Bulleted
-- List
+-------------- 教练技术：就算自己不是专家，也能帮助他人找到解决办法的技术
 
-1. Numbered
-2. List
+-------------- 演讲能力：拥有影响一群人的能力，离成功还会远吗？
 
-**Bold** and _Italic_ and `Code` text
+-------------- 讲故事能力：学会讲故事，你就拥有了一大批免费宣传的移动广告机！
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+------- 营销能力：懂得营销，能更多人需要你，你的身价自然水涨船高；
 
-### Jekyll Themes
+-------------- 发现需求的能力：发现需求是一门技术活，懂得这些，你也能成为发现需求的高手！
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/472875440/zhizai/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-------------- 满足需求的能力：只要满足了别人的需求，别人的钱才能转移到你的口袋！
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 总结篇：重要的不是知道，而是做到，小伙伴们，行动起来吧，空想是摘不到果子的！
